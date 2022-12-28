@@ -102,9 +102,9 @@
 </table>
 
 <!-- metrics 基础资料 -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/github-metrics.svg" alt="base metrics" width="75%"/>
-</div>
+<!-- <div align="center">
+  <img src="[https://cdn.jsdelivr.net/gh/Johnserf-Seed/Johnserf-Seed/github-metrics.svg](https://cdn.jsdelivr.net/gh/sun0225SUN/photos/images/202110311924844.png)" alt="base metrics" width="75%"/>
+</div> -->
 
 <!-- just img -->
 <div align="center">
